@@ -38,4 +38,4 @@ We are actively looking for maintainers interested in contributing plugins for a
 If you have experience with existing package management systems and want to contribute to an exciting open-source project, DPM is the place for you! We are actively reaching out to maintainers of existing package repository software asking them to contribute their expertise and experience to help drive the success of DPM. To get started, please review our Integration Guide. Together, we can make package management more efficient and accessible.
 
 ## Support
-For support, questions, or more information, please [join our community](link-to-community-page) or reach out to us through [our contact page](link-to-contact-page).
+For support, questions, or more information, please [join our community](https://matrix.to/#/#fractalnetworks:matrix.org)
